@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bookwarmdev
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently learning kotlin and swift
 - 💞️ I’m looking to collaborate on Fintech App
 - 📫 How to reach me bookwarmdev@gmail.com
 
